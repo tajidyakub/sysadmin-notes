@@ -1,0 +1,2 @@
+# sysadmin-notes
+Catatan sysadmin
